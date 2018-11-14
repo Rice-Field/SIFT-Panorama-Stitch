@@ -15,7 +15,7 @@ Make a new cell at the top with:
 	!pip install imutils
 
 ## 3. Retrieve images
-replace under introduction:
+replace image reading under introduction:
 
 	image1 = cv2.imread("bryce_left_02.png")
 	image2 = cv2.imread("bryce_right_02.png")
