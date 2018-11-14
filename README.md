@@ -1,10 +1,11 @@
 # Google Colab Instructions
 
 ## 1. Open notebook
-- go to google colab and use a github url
+- go to [google colab](https://colab.research.google.com) and use this github url
 	* https://github.com/Rice-Field/SIFT-Panorama-Stitch
 - open the notebook
 	* file -> save a copy in drive
+	* or edit the file and download when done
 
 ## 2. Install libraries
 Make a new cell at the top
